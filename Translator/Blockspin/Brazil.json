@@ -1,0 +1,93 @@
+{
+    "_meta": {
+        "base": "en",
+        "target": "pt-BR",
+        "version": "1.0.0"
+    },
+    "tabs": {
+        "Jobs": {
+            "title": "Trabalhos",
+            "desc": "Gerenciar farm de trabalhos"
+        },
+        "Cook": {
+            "title": "Cozinheiro",
+            "desc": "Configura??es de cozinheiro"
+        },
+        "Janitor": {
+            "title": "Zelador",
+            "desc": "Configura??es de zelador"
+        },
+        "Stocker": {
+            "title": "Estoquista",
+            "desc": "Configura??es de estoquista"
+        },
+        "ATM Hacker": {
+            "title": "Hacker de ATM",
+            "desc": "Sistema de hackear ATM"
+        },
+        "Fishing": {
+            "title": "Pescaria",
+            "desc": "Configura??es de pesca"
+        },
+        "Servers": {
+            "title": "Servidores",
+            "desc": "Gerenciar servidores"
+        },
+        "Configs": {
+            "title": "Configura??es",
+            "desc": "Gerenciar configura??es"
+        }
+    },
+    "farming": {
+        "Enabled": {
+            "title": "Ativado",
+            "desc": "Ligar/Desligar autofarm"
+        },
+        "Job": {
+            "title": "Trabalho",
+            "desc": "Selecione o trabalho"
+        },
+        "Anti Finish": {
+            "title": "Anti Finalizar",
+            "desc": "Evitar que conclua o trabalho"
+        },
+        "Respawn On Death": {
+            "title": "Renascer ao Morrer",
+            "desc": "Renasce automaticamente"
+        },
+        "Stamina Farm": {
+            "title": "Farm de Vigor",
+            "desc": "Gerencia o vigor"
+        }
+    },
+    "vehicle": {
+        "Use Vehicle": {
+            "title": "Usar Ve?culo",
+            "desc": "Usar ve?culo para viagem"
+        },
+        "Type": {
+            "title": "Tipo",
+            "desc": "Tipo de ve?culo"
+        }
+    },
+    "self_defense": {
+        "Fight back": {
+            "title": "Revide",
+            "desc": "Atacar automaticamente"
+        }
+    },
+    "fishing": {
+        "Fishing Bank Threshold": {
+            "title": "Limite do Banco",
+            "desc": "M?nimo de dinheiro a manter"
+        },
+        "Area": {
+            "title": "?rea",
+            "desc": "?rea de pesca"
+        },
+        "Mode": {
+            "title": "Modo",
+            "desc": "Modo de pesca"
+        }
+    }
+}
