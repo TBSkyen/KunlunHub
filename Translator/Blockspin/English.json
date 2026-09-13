@@ -1,0 +1,469 @@
+{
+    "_meta": {
+        "base": "en",
+        "target": "th",
+        "version": "1.0.0"
+    },
+    "General": {
+        "Axon": {
+            "title": "Axon",
+            "desc": ""
+        },
+        "Main": {
+            "title": "Main",
+            "desc": ""
+        },
+        "Jobs": {
+            "title": "Jobs",
+            "desc": ""
+        },
+        "Farming": {
+            "title": "Farming",
+            "desc": "Core autofarming settings"
+        },
+        "Enabled": {
+            "title": "Enabled",
+            "desc": "Toggle finisher"
+        },
+        "Job": {
+            "title": "Job",
+            "desc": "Select which job to farm"
+        },
+        "Anti Finish": {
+            "title": "Anti Finish",
+            "desc": "Prevent job from completing"
+        },
+        "Respawn On Death": {
+            "title": "Respawn On Death",
+            "desc": "Auto respawn when killed"
+        },
+        "Stamina Farm": {
+            "title": "Stamina Farm",
+            "desc": "Automatically manage stamina"
+        },
+        "Rotation": {
+            "title": "Rotation",
+            "desc": "Enable job rotation"
+        },
+        "Vehicle": {
+            "title": "Vehicle",
+            "desc": "Vehicle usage settings"
+        },
+        "Use Vehicle": {
+            "title": "Use Vehicle",
+            "desc": "Use vehicle for travel"
+        },
+        "Type": {
+            "title": "Type",
+            "desc": "Vehicle type"
+        },
+        "Self-defense": {
+            "title": "Self-defense",
+            "desc": "Auto defense settings"
+        },
+        "Fight back": {
+            "title": "Fight back",
+            "desc": "Auto fight attackers"
+        },
+        "Streamer Mode": {
+            "title": "Streamer Mode",
+            "desc": "Hide sensitive info"
+        },
+        "Cook": {
+            "title": "Cook",
+            "desc": ""
+        },
+        "Banking": {
+            "title": "Banking",
+            "desc": "ATM banking settings"
+        },
+        "Bank Surplus": {
+            "title": "Bank Surplus",
+            "desc": "Bank extra cash"
+        },
+        "Cook Bank Threshold": {
+            "title": "Cook Bank Threshold",
+            "desc": "Min cash to keep"
+        },
+        "Skillet": {
+            "title": "Skillet",
+            "desc": "Skillet equipment"
+        },
+        "Buy Best Skillet": {
+            "title": "Buy Best Skillet",
+            "desc": "Auto buy best available"
+        },
+        "Pick": {
+            "title": "Pick",
+            "desc": "Skillet selection mode"
+        },
+        "Janitor": {
+            "title": "Janitor",
+            "desc": ""
+        },
+        "Janitor Bank Threshold": {
+            "title": "Janitor Bank Threshold",
+            "desc": "Min cash threshold"
+        },
+        "Mop": {
+            "title": "Mop",
+            "desc": "Mop equipment"
+        },
+        "Buy Best Mop": {
+            "title": "Buy Best Mop",
+            "desc": "Auto buy best available"
+        },
+        "Stocker": {
+            "title": "Stocker",
+            "desc": ""
+        },
+        "Stocker Bank Threshold": {
+            "title": "Stocker Bank Threshold",
+            "desc": "Min cash threshold"
+        },
+        "ATM Hacker": {
+            "title": "ATM Hacker",
+            "desc": ""
+        },
+        "ATM Bank Threshold": {
+            "title": "ATM Bank Threshold",
+            "desc": "Min cash to keep"
+        },
+        "Semi Underground": {
+            "title": "Semi Underground",
+            "desc": "Use semi underground mode"
+        },
+        "ATM Repair Below": {
+            "title": "ATM Repair Below",
+            "desc": "Auto repair ATM health"
+        },
+        "ATM Paths": {
+            "title": "ATM Paths",
+            "desc": "Route management"
+        },
+        "Collect Routes": {
+            "title": "Collect Routes",
+            "desc": "Collect ATM route data"
+        },
+        "Collect": {
+            "title": "Collect",
+            "desc": ""
+        },
+        "Test Cached Routes": {
+            "title": "Test Cached Routes",
+            "desc": "Test saved routes"
+        },
+        "Test": {
+            "title": "Test",
+            "desc": ""
+        },
+        "Export ATM Routes": {
+            "title": "Export ATM Routes",
+            "desc": "Export to clipboard"
+        },
+        "Copy JSON": {
+            "title": "Copy JSON",
+            "desc": ""
+        },
+        "Import ATM Routes": {
+            "title": "Import ATM Routes",
+            "desc": "Import from clipboard"
+        },
+        "Fishing": {
+            "title": "Fishing",
+            "desc": "Fishing farm settings"
+        },
+        "Fishing Bank Threshold": {
+            "title": "Fishing Bank Threshold",
+            "desc": "Min cash to keep"
+        },
+        "Area": {
+            "title": "Area",
+            "desc": "Fishing area"
+        },
+        "Mode": {
+            "title": "Mode",
+            "desc": "Fishing mode"
+        },
+        "Selling": {
+            "title": "Selling",
+            "desc": "Auto sell settings"
+        },
+        "Sell when": {
+            "title": "Sell when",
+            "desc": "Condition to sell"
+        },
+        "Rarity Filter": {
+            "title": "Rarity Filter",
+            "desc": "Min rarity to keep"
+        },
+        "Min rarity": {
+            "title": "Min rarity",
+            "desc": "Filter by rarity"
+        },
+        "Catch Webhook": {
+            "title": "Catch Webhook",
+            "desc": "Discord webhook for rare catches"
+        },
+        "Webhook URL": {
+            "title": "Webhook URL",
+            "desc": "Discord webhook URL"
+        },
+        "Rarities": {
+            "title": "Rarities",
+            "desc": "Notify for these rarities"
+        },
+        "Equipment": {
+            "title": "Equipment",
+            "desc": "Fishing gear"
+        },
+        "Rod": {
+            "title": "Rod",
+            "desc": "Fishing rod selection"
+        },
+        "Bait": {
+            "title": "Bait",
+            "desc": "Bait selection"
+        },
+        "Bait Per Trip": {
+            "title": "Bait Per Trip",
+            "desc": "Bait amount per trip"
+        },
+        "Snap": {
+            "title": "Snap",
+            "desc": "Cast depth settings"
+        },
+        "Snap Depth": {
+            "title": "Snap Depth",
+            "desc": "Auto snap to depth"
+        },
+        "Offset": {
+            "title": "Offset",
+            "desc": "Depth offset"
+        },
+        "Planting": {
+            "title": "Planting",
+            "desc": "Auto plant settings"
+        },
+        "Seed": {
+            "title": "Seed",
+            "desc": "Select seed type"
+        },
+        "Water Threshold": {
+            "title": "Water Threshold",
+            "desc": "Auto water when below"
+        },
+        "Finisher": {
+            "title": "Finisher",
+            "desc": "Job completion automation"
+        },
+        "Marketplace": {
+            "title": "Marketplace",
+            "desc": "Auto marketplace actions"
+        },
+        "Balance": {
+            "title": "Balance",
+            "desc": "Current balance display"
+        },
+        "ATM Amount": {
+            "title": "ATM Amount",
+            "desc": "Amount for ATM operations"
+        },
+        "Deposit": {
+            "title": "Deposit",
+            "desc": ""
+        },
+        "Withdraw": {
+            "title": "Withdraw",
+            "desc": ""
+        },
+        "Spin Skips": {
+            "title": "Spin Skips",
+            "desc": "Blockspin automation"
+        },
+        "Enable Spin Skips": {
+            "title": "Enable Spin Skips",
+            "desc": "Skip spin animations"
+        },
+        "Utility": {
+            "title": "Utility",
+            "desc": ""
+        },
+        "Servers": {
+            "title": "Servers",
+            "desc": ""
+        },
+        "This Server": {
+            "title": "This Server",
+            "desc": "Current server info"
+        },
+        "Job Id": {
+            "title": "Job Id",
+            "desc": "Current server job ID"
+        },
+        "Copy": {
+            "title": "Copy",
+            "desc": ""
+        },
+        "Rejoin": {
+            "title": "Rejoin",
+            "desc": ""
+        },
+        "Server Switching": {
+            "title": "Server Switching",
+            "desc": "Server hop options"
+        },
+        "Join High Player Count": {
+            "title": "Join High Player Count",
+            "desc": "Join most populated"
+        },
+        "Join": {
+            "title": "Join",
+            "desc": ""
+        },
+        "Join Low Player Count": {
+            "title": "Join Low Player Count",
+            "desc": "Join least populated"
+        },
+        "Server Control": {
+            "title": "Server Control",
+            "desc": "Join specific server"
+        },
+        "Server ID": {
+            "title": "Server ID",
+            "desc": "Enter Job ID to join"
+        },
+        "Join Server ID": {
+            "title": "Join Server ID",
+            "desc": "Join the specified server"
+        },
+        "Copy Join Script": {
+            "title": "Copy Join Script",
+            "desc": "Copy to clipboard"
+        },
+        "Auto Rejoin": {
+            "title": "Auto Rejoin",
+            "desc": "Auto rejoin on disconnect"
+        },
+        "Configs": {
+            "title": "Configs",
+            "desc": ""
+        },
+        "Configuration List": {
+            "title": "Configuration List",
+            "desc": "Saved configs"
+        },
+        "Load": {
+            "title": "Load",
+            "desc": ""
+        },
+        "Save": {
+            "title": "Save",
+            "desc": ""
+        },
+        "Delete": {
+            "title": "Delete",
+            "desc": ""
+        },
+        "Configuration Management": {
+            "title": "Configuration Management",
+            "desc": "Create/Import/Export"
+        },
+        "New Config": {
+            "title": "New Config",
+            "desc": "Create new configuration"
+        },
+        "Create": {
+            "title": "Create",
+            "desc": ""
+        },
+        "Import Config": {
+            "title": "Import Config",
+            "desc": "Import from code"
+        },
+        "Export Current": {
+            "title": "Export Current",
+            "desc": "Export to clipboard"
+        },
+        "Copy Code": {
+            "title": "Copy Code",
+            "desc": ""
+        },
+        "Auto Load": {
+            "title": "Auto Load",
+            "desc": "Auto load config on start"
+        },
+        "Generate Loader Config": {
+            "title": "Generate Loader Config",
+            "desc": "Create standalone loader"
+        },
+        "Copy Loader": {
+            "title": "Copy Loader",
+            "desc": ""
+        },
+        "Performance": {
+            "title": "Performance",
+            "desc": "FPS and rendering settings"
+        },
+        "Framerate": {
+            "title": "Framerate",
+            "desc": "FPS limit settings"
+        },
+        "FPS Unlock": {
+            "title": "FPS Unlock",
+            "desc": "Remove FPS cap"
+        },
+        "Effects": {
+            "title": "Effects",
+            "desc": "Visual effect toggles"
+        },
+        "Disable Particles": {
+            "title": "Disable Particles",
+            "desc": "Remove particles"
+        },
+        "Disable Shadows": {
+            "title": "Disable Shadows",
+            "desc": "Remove shadows"
+        },
+        "Appearance": {
+            "title": "Appearance",
+            "desc": "UI settings"
+        },
+        "Theme": {
+            "title": "Theme",
+            "desc": "Dark/Light mode"
+        },
+        "MinimizeKeybind": {
+            "title": "MinimizeKeybind",
+            "desc": "Keybind to toggle UI"
+        },
+        "Live": {
+            "title": "Live",
+            "desc": ""
+        },
+        "Activity": {
+            "title": "Activity",
+            "desc": ""
+        },
+        "Hand Cash": {
+            "title": "Hand Cash",
+            "desc": "Cash in hand"
+        },
+        "Bank Balance": {
+            "title": "Bank Balance",
+            "desc": "Cash in bank"
+        },
+        "Session Earned": {
+            "title": "Session Earned",
+            "desc": "Earned this session"
+        },
+        "Session Time": {
+            "title": "Session Time",
+            "desc": "Active time"
+        },
+        "Status": {
+            "title": "Status",
+            "desc": "Current activity"
+        }
+    }
+}
