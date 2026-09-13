@@ -11,15 +11,15 @@
         },
         "Cook": {
             "title": "Cozinheiro",
-            "desc": "Configura??es de cozinheiro"
+            "desc": "Configurações de cozinheiro"
         },
         "Janitor": {
             "title": "Zelador",
-            "desc": "Configura??es de zelador"
+            "desc": "Configurações de zelador"
         },
         "Stocker": {
             "title": "Estoquista",
-            "desc": "Configura??es de estoquista"
+            "desc": "Configurações de estoquista"
         },
         "ATM Hacker": {
             "title": "Hacker de ATM",
@@ -27,15 +27,15 @@
         },
         "Fishing": {
             "title": "Pescaria",
-            "desc": "Configura??es de pesca"
+            "desc": "Configurações de pesca"
         },
         "Servers": {
             "title": "Servidores",
             "desc": "Gerenciar servidores"
         },
         "Configs": {
-            "title": "Configura??es",
-            "desc": "Gerenciar configura??es"
+            "title": "Configurações",
+            "desc": "Gerenciar configurações"
         }
     },
     "farming": {
@@ -62,12 +62,12 @@
     },
     "vehicle": {
         "Use Vehicle": {
-            "title": "Usar Ve?culo",
-            "desc": "Usar ve?culo para viagem"
+            "title": "Usar Veículo",
+            "desc": "Usar veículo para viagem"
         },
         "Type": {
             "title": "Tipo",
-            "desc": "Tipo de ve?culo"
+            "desc": "Tipo de veículo"
         }
     },
     "self_defense": {
@@ -79,11 +79,11 @@
     "fishing": {
         "Fishing Bank Threshold": {
             "title": "Limite do Banco",
-            "desc": "M?nimo de dinheiro a manter"
+            "desc": "Mínimo de dinheiro a manter"
         },
         "Area": {
-            "title": "?rea",
-            "desc": "?rea de pesca"
+            "title": "Área",
+            "desc": "Área de pesca"
         },
         "Mode": {
             "title": "Modo",
