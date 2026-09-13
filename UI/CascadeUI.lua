@@ -1,4 +1,4 @@
-﻿--!nolint
+--!nolint
 --!nocheck
 -- ===================================================================
 -- [AGY] KunlunHub Framework - Cascade UI Wrapper
